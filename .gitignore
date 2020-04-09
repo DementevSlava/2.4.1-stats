@@ -46,4 +46,4 @@ out/
 !**/src/main/**
 !**/src/test/**
 
-src/main/java/Statistics.java
+src/main/java/ru/netology/stats/Statistics.java
